@@ -1,4 +1,4 @@
-# Timeseries Forecasting with Deep Learning
+# Timeserie Keras RNN Timeseries
 This Python project uses LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) based Recurrent Neural Networks to forecast (predict) timeseries using Keras + Theano. We compare the results produced by each of these deep neural networks with those from a linear regression model.
 
 <b>Dataset:</b> <a href = "https://datamarket.com/data/set/235j/number-of-daily-births-in-quebec-jan-01-1977-to-dec-31-1990#!ds=235j&display=line"> Number of daily births in Quebec, Jan. 01 '77 - Dec. 31 '90 (Hipel & McLeod, 1994) </a>
